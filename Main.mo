@@ -38,5 +38,6 @@ actor hesap_makinesi {
   public func hucreDegerAl() : async Int {
     return hucre;
   };
-
 };
+//Proje linki;
+//https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/?tag=2526672629
